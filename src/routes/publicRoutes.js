@@ -70,7 +70,7 @@ server.get('/lancamentos', (req, res) => {
             "slug": "bootstrap-4",
             "descricao": "Conheça a biblioteca front-end mais utilizada no mundo",
             "isbn": "978-85-94188-60-1",
-            "numeroPaginas": 172,
+            "numeroPaginas": 173,
             "publicacao": "2018-05-01",
             "imagemCapa": "https://raw.githubusercontent.com/viniciosneves/alurabooks/curso-novo/public/imagens/livros/bootstrap4.png",
             "autor": 4,
